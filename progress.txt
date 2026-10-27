@@ -1,0 +1,6 @@
+Git and Collaboration Progress
+
+- Learned how to initialize a Git repository.
+- Learned how to stage and commit changes.
+- Connected my local repository to GitHub.
+- Created and switched to the my-progress branch.
